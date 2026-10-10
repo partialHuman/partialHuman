@@ -1,18 +1,8 @@
-<!--
-  HOW TO USE
-  1. Create a PUBLIC repo named exactly:  partialHuman   (same as your username)
-  2. Upload README.md and the whole assets/ folder to the repo root.
-  3. Set assets/profile.png as your avatar (Settings > Public profile > Profile picture).
-     Also upload the .github/ folder (workflow + script) and contribution-city/city.svg.
-     The city refreshes daily; to refresh it now: Actions > Contribution City > Run workflow.
-  4. Fill in your Steam ID, Discord ID and email in the Connect section.
--->
-
 <p align="center">
   <img src="assets/banner.gif" alt="partialHuman banner" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm partialHuman 👋</h1>
+<h1 align="center">Hey, I'm Dhrumil <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="36" height="36" align="middle" /></h1>
 
 <p align="center">
   <code>powered by caffeine and curiosity</code>
@@ -399,13 +389,13 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 <p>
   <a href="https://github.com/partialHuman"><img src="https://img.shields.io/badge/GITHUB-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
   <a href="https://www.linkedin.com/in/dhrumil-moga-b47707339"><img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/GMAIL-d93025?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL" /></a>
+  <a href="mailto:dhrumilmoga20@gmail.com"><img src="https://img.shields.io/badge/GMAIL-d93025?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL" /></a>
 </p>
 </td>
 <td align="center" valign="middle" colspan="2">
 <p>
-  <a href="https://steamcommunity.com/id/YOUR_STEAM_ID"><img src="https://img.shields.io/badge/STEAM-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="STEAM" /></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="DISCORD" /></a>
+  <a href="https://steamcommunity.com/id/partialHuman/"><img src="https://img.shields.io/badge/STEAM-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="STEAM" /></a>
+  <a href="https://discord.com/users/grumpy.monk"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="DISCORD" /></a>
 </p>
 </td>
 </tr>
@@ -413,6 +403,8 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 </table>
 
 </details>
+
+---
 
 > Hardware taught me patience. Software taught me to lower my expectations.
 > I use both daily.
