@@ -179,7 +179,6 @@ If you want to talk hardware, open source or why my testbench passed but the boa
   <img src="https://img.shields.io/badge/GITHUB-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" />
   <img src="https://img.shields.io/badge/VS%20CODE-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS CODE" />
   <img src="https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white" alt="VIM" />
-  <img src="https://img.shields.io/badge/OPENCODE-111827?style=for-the-badge" alt="OPENCODE" />
   <img src="https://img.shields.io/badge/MERMAID-ff3670?style=for-the-badge&logo=mermaid&logoColor=white" alt="MERMAID" />
 </p>
 </td>
