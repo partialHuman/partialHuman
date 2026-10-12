@@ -396,6 +396,7 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 <p>
   <a href="https://steamcommunity.com/id/partialHuman/"><img src="https://img.shields.io/badge/STEAM-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="STEAM" /></a>
   <a href="https://discord.com/users/grumpy.monk"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="DISCORD" /></a>
+  <a><img src="https://img.shields.io/badge/PLAYSTATION-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PLAYSTATION" /></a> 
 </p>
 </td>
 </tr>
