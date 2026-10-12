@@ -406,18 +406,8 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 
 <pr><pr>
 
-<table align="center">
-<tbody>
-<tr>
-<td align="center" valign="middle" colspan="2">
-
 > Hardware taught me patience. Software taught me to lower my expectations.
 > I use both daily.
-
-</td>
-</tr>
-</tbody>
-</table>
 
 
 <p align="center">
