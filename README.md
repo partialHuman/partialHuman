@@ -24,11 +24,11 @@
 
 <table>
 <tr>
-<td width="300" align="center">
+<td width="320" align="center">
   <img src="assets/sideimage.jpg" alt="me" width="300" />
 </td>
 <td>
-
+     
 
 Hi, I'm an electronics student who likes designing digital circuits and getting them running on real FPGA boards. I write Verilog for fun, build small things with **TypeScript** and **Node.js** when I want a change, and spend a suspicious amount of time making my Windows & Linux setup look better than it needs to.<br>
 
