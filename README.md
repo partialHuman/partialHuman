@@ -2,7 +2,7 @@
   <img src="assets/banner.gif" alt="partialHuman banner" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm Dhrumil <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="36" height="36" align="middle" /></h1>
+<h1 align="center">Hey, I'm Dhrumil <img src="assets/wave.svg" alt="👋" width="36" height="36" align="middle" /></h1>
 
 <p align="center">
   <code>powered by caffeine and curiosity</code>
@@ -404,10 +404,21 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 
 </details>
 
----
+<pr><pr>
+
+<table align="center">
+<tbody>
+<tr>
+<td align="center" valign="middle" colspan="2">
 
 > Hardware taught me patience. Software taught me to lower my expectations.
 > I use both daily.
+
+</td>
+</tr>
+</tbody>
+</table>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" />
