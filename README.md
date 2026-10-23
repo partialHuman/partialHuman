@@ -416,14 +416,5 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 
 
 <p align="center">
-<<<<<<< Updated upstream
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" />
 </p>
-=======
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:0969da&height=100&section=footer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="" />
-  </picture>
-</p>
->>>>>>> Stashed changes
