@@ -15,10 +15,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FpartialHuman&query=%24.stars&label=stars&logo=github&style=flat-square&color=1f6feb" alt="total stars" />
 </p>
 
-
-
-
----
+<summary><img src="assets/headings/filesystem.svg" alt="partialHuman :: FILESYSTEM" width="98%" /></summary>
 
 <details>
 <summary><img src="assets/headings/about.svg" alt="about.yml" width="96%" align="middle" /></summary>
