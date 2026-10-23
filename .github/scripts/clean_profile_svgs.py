@@ -16,7 +16,7 @@ import sys
 from pathlib import Path
 
 VIEW_ANGLE = 15.0   # <-- change this number to change the viewing angle
-PAD = 60
+PAD = 16
 
 
 def top_level(body):
@@ -107,17 +107,20 @@ def clean(path):
 
     target = float(os.environ.get("SKYLINE_ANGLE", VIEW_ANGLE))
     bars, _ = change_angle(bars, target)
-    k = math.tan(math.radians(target)) / math.tan(math.radians(30))  # crop margins scale with the angle
 
-    # bounding box from bar transforms
-    xs, ys, hs = [], [], []
-    for m in re.finditer(r'<g transform="translate\(([\d.\-]+)[ ,]+([\d.\-]+)\)">', bars):
-        xs.append(float(m.group(1)))
-        ys.append(float(m.group(2)))
-    for m in re.finditer(r'<animate attributeName="height" values="[\d.]+;([\d.]+)"', bars):
-        hs.append(float(m.group(1)))
-    x0, x1 = min(xs) - PAD, max(xs) + 36 + PAD
-    y0, y1 = min(ys) - 20 * k - PAD, max(ys) + 20 * k + (max(hs) if hs else 0) + PAD
+    # exact bounding box of the pillars (no empty margin above or below)
+    dxx = 18.0                                   # width of one pillar face
+    dyy = dxx * math.tan(math.radians(target))   # half the height of a pillar's top face
+    xs, tops, bottoms = [], [], []
+    for g in GROUP_RE.finditer(bars):
+        x, y, inner = float(g.group(1)), float(g.group(2)), g.group(3)
+        a = ANIM_RE.search(inner)
+        base_y = float(a.group(3)) + 3 if a else y + 3   # where the pillar stands on the ground
+        xs.append(x)
+        tops.append(y - dyy)                              # top corner of the roof
+        bottoms.append(base_y + dyy)                      # lowest corner of the walls
+    x0, x1 = min(xs) - PAD, max(xs) + 2 * dxx + PAD
+    y0, y1 = min(tops) - PAD, max(bottoms) + PAD
     w, h = round(x1 - x0), round(y1 - y0)
 
     head = re.sub(r'<svg[^>]*>',

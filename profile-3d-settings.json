@@ -4,7 +4,7 @@
     "fileName": "profile-city.svg",
     "backgroundColor": "#0a1230",
     "foregroundColor": "#dbe6ff",
-    "strongColor": "#8ff0ff",
+    "strongColor": "#ffd27a",
     "weakColor": "#6f7fa8",
     "radarColor": "#5cc8ff",
     "growingAnimation": true,
@@ -23,7 +23,7 @@
         },
         "left": {
           "backgroundColor": "#0e1730",
-          "foregroundColor": "#8ff0ff",
+          "foregroundColor": "#16213f",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -60,7 +60,7 @@
         },
         "right": {
           "backgroundColor": "#0b1226",
-          "foregroundColor": "#8ff0ff",
+          "foregroundColor": "#16213f",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -110,7 +110,7 @@
         },
         "left": {
           "backgroundColor": "#122a5c",
-          "foregroundColor": "#8ff0ff",
+          "foregroundColor": "#ffb454",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -147,7 +147,7 @@
         },
         "right": {
           "backgroundColor": "#0e2048",
-          "foregroundColor": "#8ff0ff",
+          "foregroundColor": "#ffb454",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -197,7 +197,7 @@
         },
         "left": {
           "backgroundColor": "#15336f",
-          "foregroundColor": "#8ff0ff",
+          "foregroundColor": "#ffb454",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -234,7 +234,7 @@
         },
         "right": {
           "backgroundColor": "#10285a",
-          "foregroundColor": "#8ff0ff",
+          "foregroundColor": "#ffb454",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -284,7 +284,7 @@
         },
         "left": {
           "backgroundColor": "#173a82",
-          "foregroundColor": "#8ff0ff",
+          "foregroundColor": "#ffc971",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -321,7 +321,7 @@
         },
         "right": {
           "backgroundColor": "#12306a",
-          "foregroundColor": "#8ff0ff",
+          "foregroundColor": "#ffc971",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -359,8 +359,8 @@
       },
       {
         "top": {
-          "backgroundColor": "#9fe8ff",
-          "foregroundColor": "#9fe8ff",
+          "backgroundColor": "#ffd27a",
+          "foregroundColor": "#ffd27a",
           "width": 4,
           "bitmap": [
             "0x0",
@@ -371,7 +371,7 @@
         },
         "left": {
           "backgroundColor": "#1a4294",
-          "foregroundColor": "#8ff0ff",
+          "foregroundColor": "#fff3d1",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -408,7 +408,7 @@
         },
         "right": {
           "backgroundColor": "#143878",
-          "foregroundColor": "#8ff0ff",
+          "foregroundColor": "#fff3d1",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -444,57 +444,6 @@
           ]
         }
       }
-    ]
-  },
-  {
-    "type": "normal",
-    "fileName": "profile-pixel-night.svg",
-    "backgroundColor": "#0a1230",
-    "foregroundColor": "#dbe6ff",
-    "strongColor": "#d6f3ff",
-    "weakColor": "#6f7fa8",
-    "radarColor": "#5cc8ff",
-    "growingAnimation": true,
-    "contribColors": [
-      "#16213f",
-      "#1f4a8f",
-      "#2f7fd8",
-      "#5cc8ff",
-      "#d6f3ff"
-    ]
-  },
-  {
-    "type": "normal",
-    "fileName": "profile-neon.svg",
-    "backgroundColor": "#0b0716",
-    "foregroundColor": "#f3e8ff",
-    "strongColor": "#ffc2f4",
-    "weakColor": "#8a7aa8",
-    "radarColor": "#ff4fd8",
-    "growingAnimation": true,
-    "contribColors": [
-      "#1a1030",
-      "#5b1d8f",
-      "#b01fd8",
-      "#ff4fd8",
-      "#ffc2f4"
-    ]
-  },
-  {
-    "type": "normal",
-    "fileName": "profile-terminal.svg",
-    "backgroundColor": "#04110a",
-    "foregroundColor": "#c8ffd9",
-    "strongColor": "#39ff88",
-    "weakColor": "#4f8a66",
-    "radarColor": "#39ff88",
-    "growingAnimation": true,
-    "contribColors": [
-      "#0b2415",
-      "#116b34",
-      "#1fa650",
-      "#39ff88",
-      "#d6ffe4"
     ]
   },
   {
@@ -608,7 +557,7 @@
         },
         "left": {
           "backgroundColor": "#8aa7ca",
-          "foregroundColor": "#ffffff",
+          "foregroundColor": "#fff3cf",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -645,7 +594,7 @@
         },
         "right": {
           "backgroundColor": "#738ca9",
-          "foregroundColor": "#ffffff",
+          "foregroundColor": "#fff3cf",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -695,7 +644,7 @@
         },
         "left": {
           "backgroundColor": "#4b81c0",
-          "foregroundColor": "#ffffff",
+          "foregroundColor": "#ffe6a3",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -732,7 +681,7 @@
         },
         "right": {
           "backgroundColor": "#3f6ca1",
-          "foregroundColor": "#ffffff",
+          "foregroundColor": "#ffe6a3",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -782,7 +731,7 @@
         },
         "left": {
           "backgroundColor": "#1a5dc4",
-          "foregroundColor": "#ffffff",
+          "foregroundColor": "#ffdc82",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -819,7 +768,7 @@
         },
         "right": {
           "backgroundColor": "#164ea4",
-          "foregroundColor": "#ffffff",
+          "foregroundColor": "#ffdc82",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -857,8 +806,8 @@
       },
       {
         "top": {
-          "backgroundColor": "#0a3d91",
-          "foregroundColor": "#0a3d91",
+          "backgroundColor": "#d29922",
+          "foregroundColor": "#d29922",
           "width": 4,
           "bitmap": [
             "0x0",
@@ -869,7 +818,7 @@
         },
         "left": {
           "backgroundColor": "#083379",
-          "foregroundColor": "#ffffff",
+          "foregroundColor": "#ffe9b0",
           "width": 12,
           "bitmap": [
             "0x0000",
@@ -906,7 +855,7 @@
         },
         "right": {
           "backgroundColor": "#072b66",
-          "foregroundColor": "#ffffff",
+          "foregroundColor": "#ffe9b0",
           "width": 12,
           "bitmap": [
             "0x0000",

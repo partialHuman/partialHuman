@@ -2,7 +2,7 @@
   <img src="assets/banner.gif" alt="partialHuman banner" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm Dhrumil <img src="assets/wave.svg" alt="👋" width="36" height="36" align="middle" /></h1>
+<h1 align="center">Hey, I'm partialHuman <img src="assets/wave.svg" alt="👋" width="36" height="36" align="middle" /></h1>
 
 <p align="center">
   <code>powered by caffeine and curiosity</code>
@@ -16,7 +16,11 @@
 </p>
 
 
-<details open>
+
+
+---
+
+<details>
 <summary><img src="assets/headings/about.svg" alt="about.yml" width="96%" align="middle" /></summary>
 
 <br>
@@ -25,7 +29,7 @@
 <table>
 <tr>
 <td width="300" align="center">
-  <img src="assets/sideimage.jpg" alt="me" width="300" />
+  <img src="assets/sideimage.png" alt="me" width="300" />
 </td>
 <td>
      
@@ -52,7 +56,7 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 </details>
 
 
-<details open>
+<details>
 <summary><img src="assets/headings/requirements.svg" alt="requirements.txt" width="96%" align="middle" /></summary>
 
 <br>
@@ -211,7 +215,7 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 </details>
 
 
-<details open>
+<details>
 <summary><img src="assets/headings/makefile.svg" alt="Makefile" width="96%" align="middle" /></summary>
 
 <br>
@@ -220,32 +224,32 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 <p align="center">
   <a href="https://github.com/partialHuman/Guardrails-Gateway">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Guardrails-Gateway&border_radius=8&description_lines_count=2&theme=github_dark&bg_color=0d1117&border_color=30363d">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Guardrails-Gateway&border_radius=8&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=24292f&icon_color=57606a">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Guardrails-Gateway&border_radius=8&description_lines_count=2&theme=github_dark&bg_color=0d1117&border_color=30363d" alt="Guardrails-Gateway" width="49%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Guardrails-Gateway&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Guardrails-Gateway&border_radius=8&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=9a6700&icon_color=0969da&text_color=24292f">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Guardrails-Gateway&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff" alt="Guardrails-Gateway" width="49%" />
     </picture>
   </a>
   <a href="https://github.com/partialHuman/Secure-Vending-Machine-Controller">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Secure-Vending-Machine-Controller&border_radius=8&description_lines_count=2&theme=github_dark&bg_color=0d1117&border_color=30363d">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Secure-Vending-Machine-Controller&border_radius=8&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=24292f&icon_color=57606a">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Secure-Vending-Machine-Controller&border_radius=8&description_lines_count=2&theme=github_dark&bg_color=0d1117&border_color=30363d" alt="Secure-Vending-Machine-Controller" width="49%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Secure-Vending-Machine-Controller&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Secure-Vending-Machine-Controller&border_radius=8&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=9a6700&icon_color=0969da&text_color=24292f">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Secure-Vending-Machine-Controller&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff" alt="Secure-Vending-Machine-Controller" width="49%" />
     </picture>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/partialHuman/Adaptive-Communication-System-Using-Dynamic-Function-eXchange">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Adaptive-Communication-System-Using-Dynamic-Function-eXchange&border_radius=8&description_lines_count=2&theme=github_dark&bg_color=0d1117&border_color=30363d">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Adaptive-Communication-System-Using-Dynamic-Function-eXchange&border_radius=8&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=24292f&icon_color=57606a">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Adaptive-Communication-System-Using-Dynamic-Function-eXchange&border_radius=8&description_lines_count=2&theme=github_dark&bg_color=0d1117&border_color=30363d" alt="Adaptive-Communication-System-Using-Dynamic-Function-eXchange" width="49%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Adaptive-Communication-System-Using-Dynamic-Function-eXchange&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Adaptive-Communication-System-Using-Dynamic-Function-eXchange&border_radius=8&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=9a6700&icon_color=0969da&text_color=24292f">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Adaptive-Communication-System-Using-Dynamic-Function-eXchange&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff" alt="Adaptive-Communication-System-Using-Dynamic-Function-eXchange" width="49%" />
     </picture>
   </a>
   <a href="https://github.com/partialHuman/pfsense-Telegram-Monitoring-Suite">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=pfsense-Telegram-Monitoring-Suite&border_radius=8&description_lines_count=2&theme=github_dark&bg_color=0d1117&border_color=30363d">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=pfsense-Telegram-Monitoring-Suite&border_radius=8&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=24292f&icon_color=57606a">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=pfsense-Telegram-Monitoring-Suite&border_radius=8&description_lines_count=2&theme=github_dark&bg_color=0d1117&border_color=30363d" alt="pfsense-Telegram-Monitoring-Suite" width="49%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=pfsense-Telegram-Monitoring-Suite&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=pfsense-Telegram-Monitoring-Suite&border_radius=8&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=9a6700&icon_color=0969da&text_color=24292f">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=pfsense-Telegram-Monitoring-Suite&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff" alt="pfsense-Telegram-Monitoring-Suite" width="49%" />
     </picture>
   </a>
 </p>
@@ -257,7 +261,7 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 </details>
 
 
-<details open>
+<details>
 <summary><img src="assets/headings/todo.svg" alt="TODO.md" width="96%" align="middle" /></summary>
 
 <br>
@@ -300,7 +304,7 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 </details>
 
 
-<details open>
+<details>
 <summary><img src="assets/headings/metrics.svg" alt="metrics.json" width="96%" align="middle" /></summary>
 
 <br>
@@ -308,22 +312,22 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=partialHuman&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=partialHuman&show_icons=true&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=24292f&icon_color=0969da">
-    <img src="https://github-readme-stats.vercel.app/api?username=partialHuman&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d" alt="github stats" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=partialHuman&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=partialHuman&show_icons=true&bg_color=ffffff&border_color=d0d7de&title_color=9a6700&icon_color=0969da&text_color=24292f&ring_color=0969da">
+    <img src="https://github-readme-stats.vercel.app/api?username=partialHuman&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff" alt="github stats" height="160" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=partialHuman&theme=github-dark-blue&background=0d1117&border=30363d">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=partialHuman&background=ffffff&border=d0d7de&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=57606a&dates=57606a">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=partialHuman&theme=github-dark-blue&background=0d1117&border=30363d" alt="streak stats" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=partialHuman&background=0d1117&border=30363d&stroke=30363d&ring=5cc8ff&fire=ffd27a&currStreakNum=e6edf3&sideNums=5cc8ff&currStreakLabel=ffd27a&sideLabels=c9d1d9&dates=8b949e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=partialHuman&background=ffffff&border=d0d7de&stroke=d0d7de&ring=0969da&fire=9a6700&currStreakNum=24292f&sideNums=0969da&currStreakLabel=9a6700&sideLabels=57606a&dates=57606a">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=partialHuman&background=0d1117&border=30363d&stroke=30363d&ring=5cc8ff&fire=ffd27a&currStreakNum=e6edf3&sideNums=5cc8ff&currStreakLabel=ffd27a&sideLabels=c9d1d9&dates=8b949e" alt="streak stats" height="160" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=partialHuman&layout=compact&langs_count=12&card_width=460&theme=github_dark&bg_color=0d1117&border_color=30363d">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=partialHuman&layout=compact&langs_count=12&card_width=460&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=24292f&icon_color=0969da">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=partialHuman&layout=compact&langs_count=12&card_width=460&theme=github_dark&bg_color=0d1117&border_color=30363d" alt="most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=partialHuman&layout=compact&langs_count=12&card_width=460&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=partialHuman&layout=compact&langs_count=12&card_width=460&bg_color=ffffff&border_color=d0d7de&title_color=9a6700&icon_color=0969da&text_color=24292f&ring_color=0969da">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=partialHuman&layout=compact&langs_count=12&card_width=460&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff" alt="most used languages" />
   </picture>
   
 </p>
@@ -331,7 +335,7 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 </details>
 
 
-<details open>
+<details>
 <summary><img src="assets/headings/heatmap.svg" alt="heatmap.csv" width="96%" align="middle" /></summary>
 
 <br>
@@ -348,7 +352,7 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 </details>
 
 
-<details open>
+<details>
 <summary><img src="assets/headings/assets.svg" alt="assets/" width="96%" align="middle" /></summary>
 
 <br>
@@ -365,7 +369,7 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 </details>
 
 
-<details open>
+<details>
 <summary><img src="assets/headings/contact.svg" alt="contact.toml" width="96%" align="middle" /></summary>
 
 <br>
@@ -405,10 +409,21 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 
 <pr><pr>
 
+---
+
 > Hardware taught me patience. Software taught me to lower my expectations.
 > I use both daily.
 
 
 <p align="center">
+<<<<<<< Updated upstream
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" />
 </p>
+=======
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:0969da&height=100&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="" />
+  </picture>
+</p>
+>>>>>>> Stashed changes
