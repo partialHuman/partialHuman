@@ -408,7 +408,9 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 
 <pr><pr>
 
----
+<p align="center">
+  <img src="assets/headings/filesystem-bottom.svg" alt="partialHuman :: FILESYSTEM" width="100%" />
+</p>
 
 > Hardware taught me patience. Software taught me to lower my expectations.
 > I use both daily.
