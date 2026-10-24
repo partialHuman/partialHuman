@@ -14,11 +14,9 @@
   <img src="https://img.shields.io/github/followers/partialHuman?style=flat-square&color=1f6feb&logo=github" alt="followers" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FpartialHuman&query=%24.stars&label=stars&logo=github&style=flat-square&color=1f6feb" alt="total stars" />
 </p>
-
-<p align="center">
-  <img src="assets/headings/filesystem.svg" alt="partialHuman :: FILESYSTEM" width="100%" />
-</p>
-
+<div align="center">
+  <img src="assets/headings/filesystem.svg" alt="partialHuman :: FILESYSTEM" width="100%" align="top" />
+</div>
 <details>
 <summary><img src="assets/headings/about.svg" alt="about.yml" width="96%" align="middle" /></summary>
 
@@ -408,9 +406,9 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 
 <pr><pr>
 
-<p align="center">
+<div align="center">
   <img src="assets/headings/filesystem-bottom.svg" alt="partialHuman :: FILESYSTEM" width="100%" />
-</p>
+</div>
 
 > Hardware taught me patience. Software taught me to lower my expectations.
 > I use both daily.
