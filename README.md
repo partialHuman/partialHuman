@@ -2,18 +2,17 @@
   <img src="assets/banner.gif" alt="partialHuman banner" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm partialHuman <img src="assets/wave.svg" alt="👋" width="36" height="36" align="middle" /></h1>
+
+<h1 align="center">
+  Hey, I'm partialHuman
+  <img src="assets/wave.svg" alt="👋" width="36" height="36" align="middle" />
+</h1>
 
 <p align="center">
-  <code>powered by caffeine and curiosity</code>
+  <img src="assets/header-pixel-loading.gif" width="100%" alt="partialHuman terminal boot sequence">
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=partialHuman&label=Profile%20views&color=1f6feb&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/partialHuman?style=flat-square&color=1f6feb&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FpartialHuman&query=%24.stars&label=stars&logo=github&style=flat-square&color=1f6feb" alt="total stars" />
-</p>
 <div align="center">
   <img src="assets/headings/filesystem.svg" alt="partialHuman :: FILESYSTEM" width="100%" align="top" />
 </div>
