@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="92" viewBox="0 0 880 92" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="116" viewBox="0 0 880 116" role="img" aria-labelledby="title desc">
   <title id="title">devnote.txt</title>
-  <desc id="desc">A minimal dark navy developer note containing the quote: Hardware taught me patience. Software taught me to lower my expectations. I use both daily.</desc>
+  <desc id="desc">A minimal dark navy developer note with extra transparent space above it, containing the quote: Hardware taught me patience. Software taught me to lower my expectations. I use both daily.</desc>
   <defs>
     <style>
       .border { fill: none; stroke: #30363d; stroke-width: 1; }
@@ -10,12 +10,13 @@
       .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
     </style>
   </defs>
-  <rect x="0.5" y="0.5" width="879" height="91" rx="5" fill="#0d1117" stroke="#30363d"/>
-  <path d="M1 31.5 H879" class="border"/>
-  <circle cx="18" cy="16" r="3.5" fill="#5cc8ff"/>
-  <text x="30" y="20" class="mono cyan" font-size="12" font-weight="600">~/devnote.txt</text>
-  <text x="862" y="20" class="mono muted" font-size="10" text-anchor="end">README FOOTER // 001</text>
-  <path d="M18 45 H862" stroke="#212b38" stroke-width="1"/>
-  <text x="20" y="64" class="mono quote" font-size="13.5">Hardware taught me patience. Software taught me to lower my expectations.</text>
-  <text x="20" y="81" class="mono quote" font-size="13.5">I use both daily.</text>
+  <!-- Transparent 24px top spacer separates this note from the filesystem panel above it. -->
+  <rect x="0.5" y="24.5" width="879" height="91" rx="5" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 55.5 H879" class="border"/>
+  <circle cx="18" cy="40" r="3.5" fill="#5cc8ff"/>
+  <text x="30" y="44" class="mono cyan" font-size="12" font-weight="600">~/devnote.txt</text>
+  <text x="862" y="44" class="mono muted" font-size="10" text-anchor="end">README FOOTER // 001</text>
+  <path d="M18 69 H862" stroke="#212b38" stroke-width="1"/>
+  <text x="20" y="88" class="mono quote" font-size="13.5">Hardware taught me patience. Software taught me to lower my expectations.</text>
+  <text x="20" y="105" class="mono quote" font-size="13.5">I use both daily.</text>
 </svg>
