@@ -404,14 +404,17 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 
 </details>
 
-<pr><pr>
+
 
 <div align="center">
   <img src="assets/headings/filesystem-bottom.svg" alt="partialHuman :: FILESYSTEM" width="100%" />
 </div>
 
-> Hardware taught me patience. Software taught me to lower my expectations.
-> I use both daily.
+<div align="center">
+  <img src="assets/headings/devnote.svg"
+       width="100%"
+       alt="devnote.txt — personal developer note" />
+</div>
 
 
 <p align="center">
