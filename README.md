@@ -24,8 +24,8 @@
 
 <table>
 <tr>
-<td width="300" align="center">
-  <img src="assets/sideimage.png" alt="me" width="300" />
+<td width="280" align="center">
+  <img src="assets/sideimage.png" alt="me" width="280" />
 </td>
 <td>
      
