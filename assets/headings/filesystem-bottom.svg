@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="26" viewBox="0 0 880 26" role="img" aria-label="rounded bottom edge of filesystem panel">
-  <style>
-    .l { stroke: #3d444d; stroke-width: 1; fill: none; }
-    @media (prefers-color-scheme: light) { .l { stroke: #d0d7de; } }
-  </style>
-  <path class="l" d="M0.5 0 V19.5 Q0.5 25 6 25 H874 Q879.5 25 879.5 19.5 V0"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="26" aria-label="rounded bottom edge of filesystem panel" role="img" viewBox="0 0 880 26"><style>.l{stroke:#3d444d;stroke-width:1;fill:none}@media (prefers-color-scheme:light){.l{stroke:#d0d7de}}</style><path d="M0.5 0 V19.5 Q0.5 25 6 25 H874 Q879.5 25 879.5 19.5 V0" class="l"/></svg>
