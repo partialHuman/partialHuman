@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="40" aria-label="devnote.txt" role="img" viewBox="0 0 880 40">
-  <style>
-    .l{stroke:#3d444d;stroke-width:1;fill:none}
-    .d{fill:#7d8590}
-    .n{fill:#388bfd}
-    .e{fill:#d29922}
-    @media (prefers-color-scheme:light){.l{stroke:#d0d7de}.d{fill:#57606a}.n{fill:#0969da}.e{fill:#9a6700}}
-  </style>
-  <path d="M0,38.5 H93.4 M329.4,38.5 H880" class="l"/>
-  <path d="M93.4,38.5 V16 Q93.4,4 105.4,4 H317.4 Q329.4,4 329.4,16 V38.5" class="l"/>
-  <rect width="3" height="18" x="104.4" y="12" class="n" rx="1.5"/>
-  <text x="115.4" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="18" font-weight="700" xml:space="preserve"><tspan class="d">~/</tspan><tspan class="n">devnote</tspan><tspan class="e">.txt</tspan></text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="40" aria-label="devnote.txt" role="img" viewBox="0 0 880 40"><style>.l{stroke:#3d444d;stroke-width:1;fill:none}.d{fill:#7d8590}.n{fill:#388bfd}.e{fill:#d29922}@media (prefers-color-scheme:light){.l{stroke:#d0d7de}.d{fill:#57606a}.n{fill:#0969da}.e{fill:#9a6700}}</style><path d="M0,38.5 H93.4 M329.4,38.5 H880" class="l"/><path d="M93.4,38.5 V16 Q93.4,4 105.4,4 H317.4 Q329.4,4 329.4,16 V38.5" class="l"/><rect width="3" height="18" x="104.4" y="12" class="n" rx="1.5"/><text x="115.4" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="18" font-weight="700" xml:space="preserve"><tspan class="d">~/</tspan><tspan class="n">devnote</tspan><tspan class="e">.txt</tspan></text></svg>
