@@ -30,7 +30,7 @@ jobs:
           theme: profile
           layout: calendar
           height-preset: standard
-          height-mode: linear
+          height-mode: power
           background: transparent
           output: dist/city-dark.svg
 
@@ -42,7 +42,7 @@ jobs:
           theme: profile-light
           layout: calendar
           height-preset: standard
-          height-mode: linear
+          height-mode: power
           background: transparent
           output: dist/city-light.svg
 
