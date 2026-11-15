@@ -29,8 +29,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: profile
           layout: calendar
-          height-preset: standard
+          height-preset: tall
           height-mode: power
+          view-angle: low
           background: transparent
           output: dist/city-dark.svg
 
@@ -41,8 +42,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: profile-light
           layout: calendar
-          height-preset: standard
+          height-preset: tall
           height-mode: power
+          view-angle: low
           background: transparent
           output: dist/city-light.svg
 
