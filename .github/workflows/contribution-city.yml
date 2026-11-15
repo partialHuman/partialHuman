@@ -1,0 +1,83 @@
+
+name: Contribution City
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-city
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Generate Personal Contribution City
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Generate dark contribution city
+        uses: partialHuman/contribution-city@96b08e073ca31d1eb96badeccb41a3044ed9d6bf # v1.3.0
+        with:
+          username: partialHuman
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: profile
+          layout: calendar
+          height-preset: standard
+          height-mode: linear
+          background: transparent
+          output: dist/city-dark.svg
+
+      - name: Generate light contribution city
+        uses: partialHuman/contribution-city@96b08e073ca31d1eb96badeccb41a3044ed9d6bf # v1.3.0
+        with:
+          username: partialHuman
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: profile-light
+          layout: calendar
+          height-preset: standard
+          height-mode: linear
+          background: transparent
+          output: dist/city-light.svg
+
+      - name: Publish generated cities to output branch
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+            git fetch --depth=1 origin output
+            git worktree add ../output-branch origin/output
+            git -C ../output-branch checkout -B output
+          else
+            git worktree add --detach ../output-branch
+            git -C ../output-branch checkout --orphan output
+            git -C ../output-branch rm -rf --quiet . || true
+          fi
+
+          cp dist/city-dark.svg dist/city-light.svg ../output-branch/
+
+          cd ../output-branch
+          git add city-dark.svg city-light.svg
+
+          if git diff --staged --quiet; then
+            echo "Contribution City is unchanged."
+            exit 0
+          fi
+
+          if git rev-parse --verify --quiet HEAD >/dev/null; then
+            git commit --amend --quiet -m "chore: update contribution city [skip ci]"
+          else
+            git commit --quiet -m "chore: update contribution city [skip ci]"
+          fi
+
+          git push --force origin HEAD:output

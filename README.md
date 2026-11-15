@@ -337,13 +337,25 @@ If you want to talk hardware, open source or why my testbench passed but the boa
 <br>
 
 
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-city.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-city-light.svg">
-    <img src="profile-3d-contrib/profile-city.svg" alt="3D contribution skyline" width="100%" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/partialHuman/partialHuman/output/city-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/partialHuman/partialHuman/output/city-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/partialHuman/partialHuman/output/city-dark.svg"
+      alt="partialHuman GitHub Contribution City"
+      width="100%"
+    />
   </picture>
 </p>
+
 
 </details>
 
