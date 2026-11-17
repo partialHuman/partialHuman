@@ -234,21 +234,22 @@ If you want to talk hardware, open source or why my testbench passed but the boa
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/partialHuman/Adaptive-Communication-System-Using-Dynamic-Function-eXchange">
+  <a href="https://github.com/partialHuman/contribution-city">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Adaptive-Communication-System-Using-Dynamic-Function-eXchange&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Adaptive-Communication-System-Using-Dynamic-Function-eXchange&border_radius=8&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=9a6700&icon_color=0969da&text_color=24292f">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=Adaptive-Communication-System-Using-Dynamic-Function-eXchange&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff" alt="Adaptive-Communication-System-Using-Dynamic-Function-eXchange" width="49%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=contribution-city&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=contribution-city&border_radius=8&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=9a6700&icon_color=0969da&text_color=24292f">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=contribution-city&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9" alt="contribution-city" width="49%" />
     </picture>
   </a>
-  <a href="https://github.com/partialHuman/pfsense-Telegram-Monitoring-Suite">
+  <a href="https://github.com/partialHuman/music-flyout">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=pfsense-Telegram-Monitoring-Suite&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=pfsense-Telegram-Monitoring-Suite&border_radius=8&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=9a6700&icon_color=0969da&text_color=24292f">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=pfsense-Telegram-Monitoring-Suite&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9&ring_color=5cc8ff" alt="pfsense-Telegram-Monitoring-Suite" width="49%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=music-flyout&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=music-flyout&border_radius=8&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=9a6700&icon_color=0969da&text_color=24292f">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=partialHuman&repo=music-flyout&border_radius=8&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=ffd27a&icon_color=5cc8ff&text_color=c9d1d9" alt="Music Flyout" width="49%" />
     </picture>
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/partialHuman?tab=repositories">See all repositories →</a>
